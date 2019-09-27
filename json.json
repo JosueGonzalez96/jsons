@@ -1,0 +1,48 @@
+{
+  "name": "News - compound",
+  "sections": [
+    {
+      "title": "Spot",
+      "cellStyle": "subtitle",
+      "cellHeight": 80,
+      "cellWidth": 100,
+      "cellPadding": 8,
+      "cellInsetsTop": 10,
+      "cellInsetsRight": 10,
+      "cellInsetsBottom": 10,
+      "cellInsetsLeft": 10,
+      "cellImageViewHeight": 60,
+      "cellImageViewWidth": 80,
+      "cellImageViewBackgroundColor": "ECF0F1",
+      "cellImageViewContentMode": 2,
+      "cellImageViewCornerRadius": 0,
+      "cellTextLabelHeight": 16,
+      "cellTextLabelTextColor": "34495E",
+      "cellTextLabelFontSize": 16,
+      "cellTextLabelAlignment": 0,
+      "cellTextLabelNumberOfLines": 1,
+      "cellDetailTextLabelHeight": 36,
+      "cellDetailTextLabelTextColor": "7F7F7F",
+      "cellDetailTextLabelFontSize": 13,
+      "cellDetailTextLabelAlignment": 0,
+      "cellDetailTextLabelNumberOfLines": 0,
+      "cells": [
+        {
+          "image": "newsImage1",
+          "title": "Massive Recall Of Cat Food Underway",
+          "subtitle": "Multiple cat food companies have voluntarily recalled dozens of their products over concerns the pets could get sick from eating them."
+        },
+        {
+          "image": "newsImage2",
+          "title": "Carnival turning cruise ships into 'smart cities' at sea",
+          "subtitle": "Carnival introduced an `Ocean Medallion` designed to tailor trips to individual passengers by learning their tastes and on-board habits"
+        },
+        {
+          "image": "newsImage3",
+          "title": "The 7 most exciting innovations I saw on Faraday Future’s FF 91",
+          "subtitle": "Faraday Future unveiled its first actual production car, which it says will enter production sometime next year."
+        }
+      ]
+    }
+  ]
+}
